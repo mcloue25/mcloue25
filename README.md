@@ -1,5 +1,7 @@
 # About Me:
-I'm currently pursuing a Master’s degree in Advanced Artificial Intelligence. I have contributed to several open source React projects and have over five years of experience developing time series models using pose estimation data for movement recognition and quality analysis. I’m especially interested in how machine learning and computer vision can be applied to solve real-world problems.<br>Feel free to reach out to me to talk about data!!!
+I'm currently pursuing a Master’s degree in Advanced Artificial Intelligence. I have contributed to several open source React projects and have over five years of experience developing time series models using pose estimation data for movement recognition and quality analysis. I’m especially interested in how machine learning and computer vision can be applied to solve real-world problems.
+
+<br>Feel free to reach out to me to talk about data!!!
 
 
 # Tech Stack:
@@ -15,9 +17,9 @@ I'm currently pursuing a Master’s degree in Advanced Artificial Intelligence. 
 [![](https://visitcount.itsvg.in/api?id=mcloue25&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## Research & Interests
-- Time-series modeling for human movement and behavioral analysis  
+- Time series modeling for human movement and financial data 
 - Pose estimation and motion quality assessment  
-- Computer vision for human-centered AI systems  
+- Computer vision for human centered AI systems  
 - Machine learning applied to biomechanics and movement recognition  
 - Bridging research-grade models with production-ready systems  
 
@@ -40,21 +42,20 @@ I'm currently pursuing a Master’s degree in Advanced Artificial Intelligence. 
 - **Problem Solved:** Improves accessibility and usability of complex data through clean, intuitive interfaces.
 
 ## Current Focus
-- Master’s research in Advanced Artificial Intelligence  
-- Advanced time-series modeling techniques for motion and pose data  
+- Master’s research in Advanced Artificial Intelligence in UCD
+- Advanced time series modeling techniques for motion and pose data  
 - Deep learning methods for pose-based movement analysis  
 - Robust evaluation frameworks for motion quality and consistency  
 
 ## Contact & Links
-- **LinkedIn:** [your-link-here]  
-- **Google Scholar:** [your-link-here] *(if applicable)*  
-- **Portfolio / Website:** [your-link-here]  
+- **LinkedIn:** [https://www.linkedin.com/in/eoin-mcloughlin-profile/]  
+<!-- - **Google Scholar:** [your-link-here] *(if applicable)*   -->
+- **Portfolio / Website:** [https://eoinmcloughlin.com/]  
 
 ## Experience Highlights
 - 5+ years of experience building machine learning pipelines using pose estimation data  
-- Designed and trained time-series models for movement recognition and quality analysis  
-- Experience working across research, prototyping, and production environments  
-- Contributor to multiple open-source React projects  
+- Designed and trained time series models for movement recognition and quality analysis  
+- Experience working across research, prototyping, and production environments
 
-
+<!-- - Contributor to multiple open-source React projects   -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

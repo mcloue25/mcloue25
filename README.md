@@ -96,7 +96,6 @@ I’m currently completing a Master’s degree in Advanced Artificial Intelligen
 - Bridging research focussed exploration with production ready systems  
 
 ## Featured Projects
-*(Replace the examples below with your actual projects)*
 
 ### Financial Modelling using a combination of Classical & Quantum Machione learning techniques
 - **Description:** Financial Regime Classification comparing Classical and Quantum Machine Learning Architectures
@@ -116,9 +115,8 @@ I’m currently completing a Master’s degree in Advanced Artificial Intelligen
 - Robust evaluation frameworks for motion quality and consistency  
 
 ## Contact & Links
-- **LinkedIn:** [https://www.linkedin.com/in/eoin-mcloughlin-profile/]  
-<!-- - **Google Scholar:** [your-link-here] *(if applicable)*   -->
-- **Portfolio / Website:** [https://eoinmcloughlin.com/]  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/eoin-mcloughlin-profile/)
+- **Portfolio:** [eoinmcloughlin.com](https://eoinmcloughlin.com/)
 
 ## Experience Highlights
 - 5+ years of experience building machine learning pipelines using pose estimation data  

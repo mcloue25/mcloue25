@@ -1,4 +1,4 @@
-# Hi, I'm Eoin McLoughlin
+# Hi, I'm Eoin
 
 I’m an AI and machine learning engineer with a strong focus on computer vision, time series modelling, and end-to-end ML systems. I recently completed an MSc in Advanced Artificial Intelligence at University College Dublin, where my work focused on machine learning, deep learning, and applied AI systems.
 

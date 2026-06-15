@@ -1,8 +1,15 @@
 # Hi, I'm Eoin
 
-I’m an AI and machine learning engineer with a strong focus on computer vision, time series modelling, and end-to-end ML systems. I recently completed an MSc in Advanced Artificial Intelligence at University College Dublin, where my work focused on machine learning, deep learning, and applied AI systems.
+I’m a Senior Machine Learning Engineer with 5+ years of experience building production ML systems, scalable data pipelines, and real-time inference platforms across cloud and edge environments. My work focuses on computer vision, time series modelling, pose estimation, LLM/RAG systems, and end-to-end ML engineering.
 
-I have 5+ years of experience building and evaluating machine learning pipelines using pose estimation data for human movement recognition and motion quality analysis. I’m particularly interested in the space between research and production: taking models from experimentation through to robust, usable systems.
+I recently completed an MSc in Advanced Artificial Intelligence at University College Dublin, where my work focused on deep learning, applied AI systems, agentic AI, and time series classification research.
+
+I’m particularly interested in the space between research and production: taking models from experimentation through to robust, usable systems.
+
+### Check out my portfolio
+
+You can view my portfolio, projects, publications, and CV here:
+**[eoinmcloughlin.com](https://eoinmcloughlin.com/)**
 
 I also build full-stack and frontend projects using React, React Native, and modern cloud/backend tooling.
 
@@ -110,7 +117,8 @@ Developed a machine learning pipeline for classifying tennis swing videos using 
 
 ## Contact
 
-- **LinkedIn:** [Eoin McLoughlin](https://www.linkedin.com/in/eoin-mcloughlin-profile/)
-- **Portfolio:** [eoinmcloughlin.com](https://eoinmcloughlin.com/)
+* **Portfolio:** [eoinmcloughlin.com](https://eoinmcloughlin.com/)
+* **LinkedIn:** [Eoin McLoughlin](https://www.linkedin.com/in/eoin-mcloughlin-profile/)
 
-Feel free to reach out if you’d like to talk about machine learning, computer vision, time series modelling, or applied AI systems.
+Feel free to reach out if you’d like to talk about machine learning, computer vision, time series modelling, RAG systems, or applied AI.
+
